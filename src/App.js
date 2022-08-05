@@ -68,7 +68,7 @@ function App() {
       <Environment preset="city" />
     </Suspense>
     <OrbitControls/>
-    {/* <Post/> */}
+    <Post/>
   </Canvas>
   </>
   );
